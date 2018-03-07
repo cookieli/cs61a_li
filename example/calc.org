@@ -1,0 +1,11 @@
+    CLOSED: [2018-02-18 Sun 18:34]
+    - State "DONE"       from ""           [2018-02-18 Sun 18:34]
+| Name     | parametre |
+| __init__ |           | 
+| __repr__ |
+__str__
+__getitem__
+__len__
+__map__
+TODO define a project
+
